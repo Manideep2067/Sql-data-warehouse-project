@@ -16,6 +16,8 @@ Designed as a **portfolio-ready project**, it highlights industry best practices
 # 🏗️ Data Architecture
 
 This project follows the **Medallion Architecture**, organizing data into three logical layers:
+<img width="1033" height="759" alt="image" src="https://github.com/user-attachments/assets/5623e7f3-e4c5-437f-8a6e-f9ee89d19b71" />
+
 
 ## 🥉 Bronze Layer — Raw Data
 - Stores data **as-is** from source systems.
